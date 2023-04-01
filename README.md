@@ -2,4 +2,6 @@
 
 Melakukan analisis sentimen dari data hasil crawling twitter dengan menggunakan pemodelan topik Latent Dirichlet Allocation (LDA) dan Algoritma klasifikasi Naive Bayes
 
-<b> Alur Analisis <b>
+<h2> Alur Analisis </h2>
+
+
